@@ -1,0 +1,249 @@
+<mjml>
+  <mj-head>
+    <mj-title>Nadir's HTML Email Portfolio</mj-title>
+    <mj-preview>
+      Hello! Here is a little information about myself and some work I've done.
+    </mj-preview>
+
+    <mj-style>
+      @media (max-width:480px){ .split { width: 50% !important; padding-bottom:
+      30px;} .full-w {width: 100% !important;}}
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <!-- Header Section -->
+    <mj-section background-color="#fff">
+      <!-- Profile Image -->
+      <mj-column>
+        <mj-image
+          width="200px"
+          height="200px"
+          src="./memoji-1.png"
+          alt="Car In Front of Eiffel Tower with Woman by Driver side Door"
+          border-radius="50%"
+        />
+        <!-- Header Text -->
+        <mj-text
+          color="#525252"
+          line-height="20px"
+          align="center"
+          font-size="24px"
+          font-weight="bold"
+        >
+          Nadir Poindexter
+        </mj-text>
+        <mj-text color="#525252" align="center" padding="0">
+          Web / Email Developer
+        </mj-text>
+        <mj-text color="#525252" line-height="20px" align="center">
+          <q
+            >Talent is a pursued interest. Anything that you're willing to
+            practice, you can do.</q
+          >
+          - Bob Ross
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- TL:DR -->
+    <mj-section background-color="#fafafa" padding="15px 50px">
+      <mj-column css-class="split">
+        <mj-text font-weight="bold" align="center"> 7 </mj-text>
+        <mj-text align="center" color="#525252" padding="0" line-height="1">
+          Years of work
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="split">
+        <mj-text font-weight="bold" align="center"> 50 </mj-text>
+        <mj-text align="center" color="#525252" padding="0" line-height="1">
+          Completed Projects
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="split">
+        <mj-text font-weight="bold" align="center"> 1000+ </mj-text>
+        <mj-text align="center" color="#525252" padding="0" line-height="1">
+          hours Google-ing
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- About Me Section -->
+    <mj-section background-color="#fff" padding-top="35px">
+      <mj-column>
+        <mj-text
+          font-style="italic"
+          font-size="20px"
+          color="#333"
+          font-weight="bold"
+        >
+          About Me
+        </mj-text>
+        <mj-text color="#525252" line-height="20px">
+          In west Philadelphia born and raised, On the playground was where I
+          spent most of my days....Wait, that's not right. If reading this made
+          you laugh, you're welcome. If this wasted your time, mi culpa. In
+          short, I'm a hard working, quick learner, with 5+ years of
+          Administrative / Clerical skills, Researching skills, 5+ years of Web
+          Development / Graphic Design skills, and above all else, an expert
+          Google-er. Looking forward to working with your company and growing
+          together.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Skills Section -->
+    <mj-section background-color="#fafafa" padding-top="35px">
+      <mj-column>
+        <mj-text
+          font-style="italic"
+          font-size="20px"
+          color="#333"
+          font-weight="bold"
+        >
+          Skills
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fafafa" padding-top="10px">
+      <mj-column>
+        <mj-text
+          font-style="italic"
+          font-size="18px"
+          color="#525252"
+          font-weight="bold"
+          align="center"
+        >
+          Frontend Developer
+        </mj-text>
+
+        <mj-text font-weight="bold" color="#525252" align="center">
+          <span style="margin-right: 10%">HTML</span>
+          <span>Svelte JS</span>
+        </mj-text>
+        <mj-text font-weight="bold" color="#525252" align="center">
+          <span style="margin-right: 20%">CSS</span>
+          <span>Git</span>
+        </mj-text>
+        <mj-text font-weight="bold" color="#525252" align="center">
+          <span style="margin-right: 10%">JavaScript</span>
+          <span>Google-er</span>
+        </mj-text>
+        <mj-text font-weight="bold" color="#525252" align="center">
+          MJML - Email Framework
+        </mj-text>
+      </mj-column>
+
+      <mj-column>
+        <mj-text
+          font-style="italic"
+          font-size="18px"
+          color="#525252"
+          font-weight="bold"
+          align="center"
+        >
+          Backend Developer
+        </mj-text>
+
+        <mj-text font-weight="bold" color="#525252" align="center">
+          <span style="margin-right: 10%">PHP</span>
+          <span>Node JS</span>
+        </mj-text>
+        <mj-text font-weight="bold" color="#525252" align="center">
+          <span style="margin-right: 10%">MYSQL</span>
+          <span>Wordpress</span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-text
+          font-style="italic"
+          font-size="20px"
+          color="#333"
+          font-weight="bold"
+        >
+          Projects
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding-bottom="0">
+      <mj-column>
+        <mj-image
+          src="./dsg-email.png"
+          alt="Dick's Sporting Goods Email thumbnail"
+        />
+        <mj-text align="center" font-weight="bold" color="#626262">
+          Dick's Sporting Goods Email
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image
+          src="./reMarkable-email.png"
+          alt="reMarkable Tablet Email thumbnail"
+        />
+        <mj-text align="center" font-weight="bold" color="#626262">
+          reMarkable Email
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding-top="0" padding-bottom="0">
+      <mj-column>
+        <mj-image
+          src="./nike-email.png"
+          alt="Nike Promotional Email thumbnail"
+        />
+        <mj-text align="center" font-weight="bold" color="#626262">
+          Nike Email
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image
+          src="./unsplash-email-1.png"
+          alt="Unsplash Photo highlights Email thumbnail"
+        />
+        <mj-text align="center" font-weight="bold" color="#626262">
+          Unsplash Email
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding-top="0">
+      <mj-column>
+        <mj-image
+          src="./paypal-email.png"
+          alt="PayPal Promotional Email thumbnail"
+        />
+        <mj-text align="center" font-weight="bold" color="#626262">
+          PayPal Email
+        </mj-text>
+      </mj-column>
+      <mj-column> </mj-column>
+    </mj-section>
+
+    <!-- Social Icons -->
+    <mj-section background-color="#fafafa">
+      <mj-group>
+        <mj-column>
+          <mj-social>
+            <mj-social-element
+              name="github"
+              href="https://github.com/ilovejawns"
+            ></mj-social-element>
+          </mj-social>
+          <mj-text align="center">
+            <a href="#" style="text-decoration: none; color: #333"
+              >© I ❤️ Jawns. All rights reserved
+            </a>
+          </mj-text>
+          <mj-button
+            href="https://nadirp.com/assets/pdf/nadir-resume.pdf"
+            background-color="#42a5f5"
+          >
+            Download Resume
+          </mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+  </mj-body>
+</mjml>
