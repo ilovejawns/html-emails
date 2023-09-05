@@ -1,0 +1,257 @@
+<mjml>
+  <mj-head>
+    <mj-title>Trello Tips Email</mj-title>
+    <mj-preview>Preview Text</mj-preview>
+    <mj-attributes>
+      <mj-class name="content" width="100%" />
+      <mj-all font-family="Helvetica, Arial, sans-serif" />
+    </mj-attributes>
+    <mj-style>
+      @media(max-width:480px){.split {width: 50% !important;} .sm-text div
+      {font-size: 12px !important;}}
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-wrapper
+      padding="0"
+      background-color="linear-gradient(#00B0E0,#00A8DB,#0079bf)"
+      full-width="full-width"
+    >
+      <!-- Logo Section -->
+      <mj-section>
+        <mj-column>
+          <mj-image width="200px" src="imgs/trello-logo-white-min.png" alt="" />
+        </mj-column>
+      </mj-section>
+
+      <!-- Content Section -->
+      <mj-section background-color="#fff" border-radius="10px">
+        <mj-column padding="20px 15px" mj-class="content">
+          <mj-image src="imgs/img1.png" alt="" border-radius="10px" />
+          <mj-text align="center" color="#444">
+            <h1 style="font-size: 28px">
+              <a href="#" style="text-decoration: none; color: inherit"
+                >How To Hold Your Team Accountable</a
+              >
+            </h1>
+            <p style="font-size: 20px; margin: 20px 0; line-height: 28px">
+              No one likes being micromanaged, use these tactics to build a
+              culture of mutual accountability and trust.
+            </p>
+          </mj-text>
+          <mj-button
+            href="#"
+            inner-padding="14px 20px"
+            background-color="#61bd4f"
+            font-size="20px"
+            font-weight="bold"
+            line-height="24px"
+            border-radius="6px"
+            padding-top="0"
+          >
+            Trust Or Bust
+          </mj-button>
+        </mj-column>
+
+        <mj-column padding="30px 15px" mj-class="content">
+          <mj-image src="imgs/img2.png" alt="" border-radius="10px" />
+          <mj-text align="center" color="#444">
+            <h1 style="font-size: 28px">
+              <a href="#" style="text-decoration: none; color: inherit"
+                >Boost Your Leadership Skills With The Feynman Technique</a
+              >
+            </h1>
+            <p style="font-size: 20px; margin: 20px 0; line-height: 28px">
+              <a href="#" style="text-decoration: none; color: inherit">
+                Cultivate deep expertise on any topic using this four-step
+                process in Trello.</a
+              >
+            </p>
+          </mj-text>
+          <mj-button
+            href="#"
+            inner-padding="14px 20px"
+            background-color="#61bd4f"
+            font-size="20px"
+            font-weight="bold"
+            line-height="24px"
+            border-radius="6px"
+            padding-top="0"
+          >
+            <i>Learn</i> More
+          </mj-button>
+        </mj-column>
+
+        <mj-column padding="30px 15px" mj-class="content">
+          <mj-image src="imgs/img3.png" alt="" border-radius="10px" />
+          <mj-text align="center" color="#444">
+            <h1 style="font-size: 28px">
+              <a href="#" style="text-decoration: none; color: inherit"
+                >6 Popular Project Management Methodologies To Know</a
+              >
+            </h1>
+            <p style="font-size: 20px; margin: 20px 0; line-height: 28px">
+              <a href="#" style="text-decoration: none; color: inherit">
+                Different goals require different tactics—how to choose the
+                right project management technique for your team.</a
+              >
+            </p>
+          </mj-text>
+          <mj-button
+            href="#"
+            inner-padding="14px 20px"
+            background-color="#61bd4f"
+            font-size="20px"
+            font-weight="bold"
+            line-height="24px"
+            border-radius="6px"
+            padding-top="0"
+          >
+            Perfect Your Project
+          </mj-button>
+        </mj-column>
+
+        <mj-column padding="30px 15px" mj-class="content">
+          <mj-image src="imgs/img4.png" alt="" border-radius="10px" />
+          <mj-text align="center" color="#444">
+            <h1 style="font-size: 28px">
+              <a href="#" style="text-decoration: none; color: inherit"
+                >Conflict Management Strategies for Hybrid Teams</a
+              >
+            </h1>
+            <p style="font-size: 20px; margin: 20px 0; line-height: 28px">
+              <a href="#" style="text-decoration: none; color: inherit">
+                No one likes being micromanaged, use these tactics to build a
+                culture of mutual accountability and trust </a
+              >.
+            </p>
+          </mj-text>
+          <mj-button
+            href="#"
+            inner-padding="14px 20px"
+            background-color="#61bd4f"
+            font-size="20px"
+            font-weight="bold"
+            line-height="24px"
+            border-radius="6px"
+            padding-top="0"
+          >
+            Smooth It Out
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <!-- Footer -->
+      <mj-section padding-top="30px">
+        <mj-section border-radius="10px" background-color="#055A8C">
+          <mj-column>
+            <mj-image
+              padding="0 15px"
+              border-radius="5px"
+              src="imgs/img5.png"
+              alt=""
+            />
+          </mj-column>
+          <mj-column>
+            <mj-text color="#fff" font-size="18px" line-height="24px">
+              <p style="margin: 0 0 8px">
+                <a href="#" style="text-decoration: none; color: inherit"
+                  ><strong>New Trello Views Are Here</strong></a
+                >
+              </p>
+              <p style="margin: 0 0 8px">
+                <a href="#" style="text-decoration: none; color: inherit"
+                  >See boards as a Timeline, Dashboard, Table, and more!</a
+                >
+              </p>
+            </mj-text>
+            <mj-button
+              href="#"
+              align="left"
+              inner-padding="14px"
+              background-color="#4F769C"
+              font-size="18px"
+              font-weight="bold"
+              line-height="24px"
+              border-radius="6px"
+              padding-top="0"
+            >
+              Try Them Free
+            </mj-button>
+          </mj-column>
+        </mj-section>
+
+        <!-- Footer Text & Links -->
+        <mj-section padding-bottom="0">
+          <mj-column>
+            <mj-text
+              align="center"
+              color="#fff"
+              line-height="18px"
+              padding="0"
+              font-size="14px"
+            >
+              <em>Want more?<br />Get your productivity fix at the </em>
+              <a href="#" style="color: inherit"><em>Trello Blog →</em></a>
+            </mj-text>
+            <mj-text align="center">
+              <a style="margin: 0 5px" href="#"
+                ><img width="32" src="imgs/facebook.png"
+              /></a>
+              <a style="margin: 0 5px" href="#"
+                ><img width="32" src="imgs/twitter.png"
+              /></a>
+              <a style="margin: 0 5px" href="#"
+                ><img width="32" src="imgs/linkedin.png"
+              /></a>
+              <a style="margin: 0 5px" href="#"
+                ><img width="32" src="imgs/instagram.png"
+              /></a>
+            </mj-text>
+            <mj-text align="center" color="#fff" line-height="18px">
+              <a style="margin: 0 10px" href="#"
+                ><img width="137" src="imgs/apple-store.png"
+              /></a>
+              <a style="margin: 0 10px" href="#"
+                ><img width="137" src="imgs/google-play.png"
+              /></a>
+            </mj-text>
+            <mj-text
+              align="center"
+              color="#fff"
+              line-height="20px"
+              font-size="14px"
+              padding="0"
+            >
+              <em
+                >Copyright © 2021 Trello Inc., All rights reserved.
+                <br />
+                888 Broadway Floor 4 New York, NY 10003</em
+              >
+            </mj-text>
+            <mj-text
+              align="center"
+              color="#fff"
+              line-height="20px"
+              font-size="14px"
+              padding-bottom="0"
+            >
+              <a style="margin: 0 5px; color: inherit" href="#"
+                ><em>View in Browser</em></a
+              ><span>|</span>
+              <a style="margin: 0 5px; color: inherit" href="#"
+                ><em>Privacy Policy</em></a
+              ><span>|</span>
+              <a style="margin: 0 5px; color: inherit" href="#"
+                ><em>Manage Account</em></a
+              ><span>|</span>
+              <a style="margin: 0 5px; color: inherit" href="#"
+                ><em>Unsubscribe</em></a
+              >
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
